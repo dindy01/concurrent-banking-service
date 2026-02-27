@@ -1,0 +1,29 @@
+[ {
+  "username" : "ac1",
+  "amount" : 495,
+  "lastTransaction" : {
+    "sender" : "ac1",
+    "receiver" : "ac2",
+    "amount" : 5
+  }
+}, {
+  "username" : "ac2",
+  "amount" : 1005,
+  "lastTransaction" : {
+    "sender" : "ac1",
+    "receiver" : "ac2",
+    "amount" : 5
+  }
+}, {
+  "username" : "ac3",
+  "amount" : 200,
+  "lastTransaction" : {
+    "sender" : "ac3",
+    "receiver" : "ac2",
+    "amount" : 5
+  }
+}, {
+  "username" : "Queen",
+  "amount" : 10000,
+  "lastTransaction" : null
+} ]
