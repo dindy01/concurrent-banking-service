@@ -3,7 +3,7 @@
 Java 17 client-server application for managing concurrent bank account transactions.
 
 ## Overview
-Built for the Operating Systems Lab course at University of Bologna (A.Y. 2022-23).
+Built for the Operating Systems Lab course at University of Bologna (A.Y. 2024-25).
 The system simulates a banking backend where multiple clients connect simultaneously
 and perform operations on shared accounts, with full concurrency control.
 
